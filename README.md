@@ -2,7 +2,7 @@
 
 A production-ready **Marketing Agency Project Management System** built with **Next.js 16**, **React 19**, **TypeScript**, **Tailwind CSS**, and **Supabase**. The application helps marketing teams manage campaigns, monitor team workload, track tasks, and view client progress through a modern SaaS dashboard.
 
-> Developed as a take-home assignment for an **Agentic AI Engineer / AI-Assisted Developer** role.
+
 
 ---
 
